@@ -17,7 +17,10 @@ defmodule BasicSpider do
       document
       |> Floki.find("ol li")
       |> Enum.map(fn uni ->
-          %{name: Floki.find(uni, "a") |> Floki.text()}
+          %{
+            name: Floki.find(uni, "a") |> Floki.text(),
+            url: Floki.attribute(uni, "a", "href") |> Floki.text()
+          }
         end)
 
     next_requests =
