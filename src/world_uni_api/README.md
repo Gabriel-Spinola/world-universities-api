@@ -1,6 +1,16 @@
-# WorldUniApi
+# World Uni Scrapper
 
 **TODO: Add description**
+
+## Sources
+- https://univ.cc/search.php | we may have legal issues so I'm not sure about it's usage
+- [ ] Wikipedia
+
+## Usage
+Runs with
+`
+iex -S mix run -e "Crawly.Engine.start_spider(BasicSpider)"
+`
 
 ## Installation
 
