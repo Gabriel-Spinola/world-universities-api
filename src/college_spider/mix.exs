@@ -23,7 +23,8 @@ defmodule CollegeSpider.MixProject do
   defp deps do
     [
       {:crawly, "~> 0.16.0"},
-      {:floki, "~> 0.33.0"}
+      {:floki, "~> 0.33.0"},
+      {:jason, "~> 1.4.1"}
     ]
   end
 end
