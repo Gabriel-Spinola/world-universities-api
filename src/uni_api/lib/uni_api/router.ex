@@ -53,28 +53,22 @@ defmodule UniApi.Router do
   match _, do: send_resp(conn, 404, "Not Found")
 
   defp proccess_colleges_post(fields, body_params) do
-    Enum.each(body_params, fn
-      {"_json", colleges} ->
-        Enum.each(colleges, fn params ->
-          if Enum.any?(fields, &Map.has_key?(params, &1)) do
-            changeset = UniApi.College.changeset(%UniApi.College{}, %{
-              "name" => params["name"],
-              "url" => params["url"],
-              "logo_url" => params["logo_url"]
-            })
+    if Enum.any?(fields, &Map.has_key?(body_params, &1)) do
+      changeset = UniApi.College.changeset(%UniApi.College{}, %{
+        "name" => body_params["name"],
+        "url" => body_params["url"],
+        "logo_url" => body_params["logo_url"]
+      })
 
-            case UniApi.College.insert_new_colleges(changeset) do
-              {:ok, _record} -> {200, "Successfully inserted"}
-              {:error, changeset} -> {422, Jason.encode!(changeset.errors)}
-            end
-          end
+      case UniApi.College.insert_new_colleges(changeset) do
+        {:ok, _record} -> {200, "Successfuly inserted"}
+        {:error, changeset} -> {422, Jason.encode!(changeset.errors)}
+      end
 
-          {422, missing_body_data()}
-        end)
+      {500, "Something went wrong"}
+    end
 
-      _ ->
-        {422, missing_body_data()}
-    end)
+    { 422, missing_body_data() }
   end
 
   defp missing_body_data do

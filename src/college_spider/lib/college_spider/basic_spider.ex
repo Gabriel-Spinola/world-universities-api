@@ -1,6 +1,7 @@
 defmodule CollegeSpider.BasicSpider do
   defmodule JsonTemplate do
     @json_file_path "./output/output.json"
+    @prettifyJson true
 
     def generate_college_json(college) do
       %{
@@ -13,7 +14,7 @@ defmodule CollegeSpider.BasicSpider do
     def read_json_file() do
       case File.read(@json_file_path) do
         {:ok, content} ->
-          decoded_content = Jason.decode!(content, pretty: true)
+          decoded_content = Jason.decode!(content, pretty: @prettifyJson)
 
           decoded_content
 
@@ -36,7 +37,7 @@ defmodule CollegeSpider.BasicSpider do
 
       updated_data = Map.put(existing_data, "universities", universities)
 
-      case File.write(@json_file_path, Jason.encode!(updated_data, pretty: true)) do
+      case File.write(@json_file_path, Jason.encode!(updated_data, pretty: @prettifyJson)) do
         :ok -> IO.puts("Data appended to the JSON file.")
 
         {:error, reason} -> IO.puts("Error writing to JSON file: #{reason}")
