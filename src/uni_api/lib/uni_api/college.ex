@@ -10,10 +10,6 @@ defmodule UniApi.College do
     timestamps()
   end
 
-  defp all_fields do
-    __MODULE__.__schema__(:fields)
-  end
-
   defimpl Jason.Encoder do
     def encode(data, _opts) do
       %{
