@@ -1,5 +1,7 @@
 defmodule UniApi.Router do
+  #alias ElixirSense.Plugins.Ecto
   use Plug.Router
+  require Ecto.Query
 
   plug Plug.Logger, log: :debug
 
@@ -20,14 +22,20 @@ defmodule UniApi.Router do
   match _, do: send_resp(conn, 404, "Not Found")
 
   defp get_colleges(conn) do
-    colleges = [
-      %{id: 1, name: "College A", url: "collge.com", img_url: "a.png"},
-      %{id: 2, name: "College B", url: "collge.com", img_url: "a.png"},
-      %{id: 3, name: "College C", url: "collge.com", img_url: "a.png"},
-      %{id: 4, name: "College D", url: "collge.com", img_url: "a.png"}
-    ]
+    query = UniApi.College
+      |> Ecto.Query.first
 
-    json_payload = Jason.encode!(colleges)
-    send_resp(conn, 200, json_payload)
+    result = UniApi.Repo.one(query)
+
+    case result do
+      %UniApi.College{} ->
+        result_map = Map.from_struct(result)
+          |> Map.delete(:__meta__)
+
+        encoded_result = Jason.encode!(result_map)
+        send_resp(conn, 200, encoded_result)
+
+      nil -> send_resp(conn, 404, "Not Found")
+    end
   end
 end
