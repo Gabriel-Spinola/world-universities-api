@@ -42,32 +42,40 @@ defmodule UniApi.Router do
   end
 
   post "colleges" do
-    IO.inspect(%UniApi.College{})
     fields = Map.keys(%UniApi.College{})
       |> Enum.map(&Atom.to_string/1)
 
-    {status, body} =
-      if Enum.any?(fields, &Map.has_key?(conn.body_params, &1)) do
-        changeset = UniApi.College.changeset(%UniApi.College{}, %{
-          "name" => conn.body_params["name"],
-          "url" => conn.body_params["url"],
-          "logo_url" => conn.body_params["logo_url"]
-        })
-
-        case UniApi.College.insert_new_colleges(changeset) do
-          {:ok, record} -> {200, ""}
-          {:error, changeset} -> {422, Jason.encode!(changeset.errors)}
-        end
-
-        {500, "Something went wrong"}
-      else
-        { 422, missing_body_data() }
-      end
+    {status, body} = proccess_colleges_post(fields, conn.body_params)
 
     send_resp(conn, status, body)
   end
 
   match _, do: send_resp(conn, 404, "Not Found")
+
+  defp proccess_colleges_post(fields, body_params) do
+    Enum.each(body_params, fn
+      {"_json", colleges} ->
+        Enum.each(colleges, fn params ->
+          if Enum.any?(fields, &Map.has_key?(params, &1)) do
+            changeset = UniApi.College.changeset(%UniApi.College{}, %{
+              "name" => params["name"],
+              "url" => params["url"],
+              "logo_url" => params["logo_url"]
+            })
+
+            case UniApi.College.insert_new_colleges(changeset) do
+              {:ok, _record} -> {200, "Successfully inserted"}
+              {:error, changeset} -> {422, Jason.encode!(changeset.errors)}
+            end
+          end
+
+          {422, missing_body_data()}
+        end)
+
+      _ ->
+        {422, missing_body_data()}
+    end)
+  end
 
   defp missing_body_data do
     Jason.encode!(%{error: "Expected Payload: { 'data': [...] }"})
