@@ -8,7 +8,7 @@ defmodule UniApiTest.RouterTest do
     seed_test_data()
   end
 
-  test "returns encoded college when found" do
+  test "Returns encoded college when found" do
     conn = conn(:get, "/colleges")
     response = UniApi.Router.call(conn, @opts)
 
@@ -16,7 +16,7 @@ defmodule UniApiTest.RouterTest do
     assert response.resp_body == ~s({"id": "123", "name": "Test College", "url": "http://example.com", "logo_url": null})
   end
 
-  test "returns 404 when no college is found" do
+  test "Returns 404 when no college is found" do
     conn = conn(:get, "/colleges")
     response = UniApi.Router.call(conn, @opts)
 

@@ -1,5 +1,7 @@
 defmodule UniApi.College do
   use Ecto.Schema
+  import Ecto.Changeset
+  require Ecto.Query
 
   @primary_key {:id, :binary_id, autogenerate: true}
   schema "colleges" do
@@ -8,6 +10,12 @@ defmodule UniApi.College do
     field :logo_url, :string
 
     timestamps()
+  end
+
+  def changeset(struct, params \\ %{}) do
+    struct
+      |> cast(params, [:name, :url, :logo_url])
+      |> validate_required([:name, :url])
   end
 
   defimpl Jason.Encoder do
@@ -21,5 +29,29 @@ defmodule UniApi.College do
         "updated_at" => data.updated_at
       }
     end
+  end
+
+
+  def from_map(map) do
+    Enum.reduce(map, %UniApi.College{}, fn {key, value}, acc ->
+      atom_key =
+        case String.to_atom(key) do
+          {:ok, atom} -> atom
+          _ -> key
+        end
+
+      Map.put(acc, atom_key, value)
+    end)
+  end
+
+  def get_colleges() do
+    result = UniApi.College
+      |> UniApi.Repo.all
+
+    result
+  end
+
+  def insert_new_colleges(data) do
+    UniApi.Repo.insert(data)
   end
 end

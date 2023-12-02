@@ -12,8 +12,6 @@ defmodule UniApi.Application do
       { Plug.Cowboy, scheme: :http, plug: UniApi.Router, options: [port: 8080] }
     ]
 
-    # See https://hexdocs.pm/elixir/Supervisor.html
-    # for other strategies and supported options
     opts = [strategy: :one_for_one, name: UniApi.Supervisor]
     Supervisor.start_link(children, opts)
   end
