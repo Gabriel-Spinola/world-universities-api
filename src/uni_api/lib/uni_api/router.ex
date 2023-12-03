@@ -1,6 +1,8 @@
 defmodule UniApi.Router do
-  #alias ElixirSense.Core.Struct
-  #alias ElixirSense.Plugins.Ecto
+  @moduledoc """
+  Module responsible for defining the endpoints of the API
+  """
+
   use Plug.Router
 
   plug Plug.Logger, log: :debug
@@ -52,6 +54,7 @@ defmodule UniApi.Router do
 
   match _, do: send_resp(conn, 404, "Not Found")
 
+  @spec proccess_colleges_post(fields::%{String.t() => String.t()}, body_params::%{String.t() => String.t()}) :: {integer, String.t() | iodata()}
   defp proccess_colleges_post(fields, body_params) do
     if Enum.any?(fields, &Map.has_key?(body_params, &1)) do
       changeset = UniApi.College.changeset(%UniApi.College{}, %{
@@ -64,13 +67,12 @@ defmodule UniApi.Router do
         {:ok, _record} -> {200, "Successfuly inserted"}
         {:error, changeset} -> {422, Jason.encode!(changeset.errors)}
       end
-
-      {500, "Something went wrong"}
+    else
+      { 422, missing_body_data() }
     end
-
-    { 422, missing_body_data() }
   end
 
+  @spec missing_body_data() :: iodata()
   defp missing_body_data do
     Jason.encode!(%{error: "Expected Payload: { 'data': [...] }"})
   end

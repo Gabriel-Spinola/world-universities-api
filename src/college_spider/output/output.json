@@ -1,0 +1,4754 @@
+{
+  "universities": [
+    {
+      "logo_url": "default_logo_url",
+      "name": "1 December University of Alba Iulia",
+      "url": "http://www.uab.ro/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "2nd Military Medical University",
+      "url": "http://www.smmu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "3rd Military Medical University",
+      "url": "http://www.tmmu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "4th Military Medical University",
+      "url": "https://www.fmmu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "AAB College",
+      "url": "https://aab-edu.net/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aalborg Business College",
+      "url": "http://www.ah.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aalborg University",
+      "url": "http://www.aau.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aalto University",
+      "url": "http://www.aalto.fi/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aarhus School of Architecture",
+      "url": "http://www.a-aarhus.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aarhus School of Business",
+      "url": "http://bss.au.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aarhus Technical College",
+      "url": "http://www.ats.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aarhus University",
+      "url": "http://www.au.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abai State University",
+      "url": "http://www.kaznpu.kz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abant Izzet Baysal University",
+      "url": "http://www.ibu.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abasyn University Peshawar",
+      "url": "http://www.abasyn.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abdul Kalam Technical University",
+      "url": "https://aktu.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abdus Salam international centre for theoretical physics",
+      "url": "http://www.ictp.trieste.it/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abia State Polytechnic",
+      "url": "http://abiastatepolytechnic.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abia State University",
+      "url": "https://abiastateuniversity.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abkhazian State University",
+      "url": "https://www.agu.site/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "ABM University College",
+      "url": "http://www.abm.ac.bw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abo Akademi University",
+      "url": "http://www.abo.fi/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abrar University",
+      "url": "http://www.abrar.edu.so/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "ABTI American University of Nigeria",
+      "url": "http://www.aun.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abubakar Tafawa Balewa University",
+      "url": "http://www.atbu.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abu Dhabi University",
+      "url": "https://www.adu.ac.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Abylai Khan University",
+      "url": "http://www.ablaikhan.kz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academia de Studii Economice din Bucuresti",
+      "url": "http://www.ase.ro/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academia Nacional Superior de Orquesta",
+      "url": "http://www.oml.pt/anso/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academia Tehnica Militara",
+      "url": "http://www.mta.ro/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Arts",
+      "url": "http://www.akademiaearteve.edu.al/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Arts \"George Enescu\" Iasi",
+      "url": "http://www.arteiasi.ro/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Arts in Banská Bystrica",
+      "url": "http://www.aku.sk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Drama and Film",
+      "url": "http://www.filmacademy.hu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Economics \"Dimitur A. Tscenov\"",
+      "url": "https://www.uni-svishtov.bg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Economics in Cracow",
+      "url": "http://www.ae.krakow.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Economics in Katowice",
+      "url": "http://www.ae.katowice.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Economics in Poznan",
+      "url": "http://www.ae.poznan.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Economics in Wroclaw",
+      "url": "http://www.ae.wroc.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Finance",
+      "url": "https://hvtc.edu.vn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Fine Arts",
+      "url": "http://www.kuva.fi/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Fine Arts and Design in Bratislava",
+      "url": "http://www.vsvu.sk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Humanities and Economics in Lodz",
+      "url": "http://www.ahe.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of International Economic and Political Relations, Gdynia",
+      "url": "http://www.wsms.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Management and Entrepreneurship",
+      "url": "http://www.ame.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Music, Dance and Fine Arts",
+      "url": "https://www.artacademyplovdiv.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Music \"Georghe Dima\" Cluj-Napoca",
+      "url": "http://www.amgd.eu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Performing Arts, Film and TV Fakulty",
+      "url": "http://www.famu.cz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Public Administration",
+      "url": "http://www.dia.edu.az/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Academy of Public Administration of Belarus",
+      "url": "http://www.pac.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Babes-Bolyai University of Cluj-Napoca",
+      "url": "http://www.ubbcluj.ro/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Babol Noshirvani University of Technology",
+      "url": "http://www.nit.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Babol University of Medical Sciences",
+      "url": "http://www.mubabol.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Badakhshan University",
+      "url": "https://www.badakhshan.edu.af"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baghdad College of Economic Sciences University",
+      "url": "http://www.baghdadcollege.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baghdad College of Pharmacy",
+      "url": "http://www.bpc.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baghlan University",
+      "url": "https://www.baghlan.edu.af"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baghyatoolah Medical Sciences University",
+      "url": "http://www.bmsu.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baha'i Institute for Higher Education",
+      "url": "http://www.bihe.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bahauddin Zakariya University, Multan",
+      "url": "http://www.bzu.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bahcesehir University",
+      "url": "http://www.bahcesehir.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bahir Dar University",
+      "url": "http://www.bdu.edu.et/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bahrain Polytechnic",
+      "url": "http://www.polytechnic.bh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bahria University",
+      "url": "https://www.bahria.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baikal National University of Economics and Law",
+      "url": "http://www.isea.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baika Women's College",
+      "url": "http://www.baika.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baiko Women's College",
+      "url": "http://www.baiko.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baitulmal Management Institute (IPB)",
+      "url": "http://www.ipb.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bakhtar University",
+      "url": "http://www.bakhtar.edu.af/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baki Business University",
+      "url": "http://www.bbu.edu.az/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baku Slavic University",
+      "url": "http://www.bsu-edu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baku State University",
+      "url": "http://www.bsu.az/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Balamand University",
+      "url": "http://www.balamand.edu.lb/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Balikesir University",
+      "url": "http://www.balikesir.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Balkh University",
+      "url": "https://www.ba.edu.af"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ballsbridge University ",
+      "url": "http://www.acedu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Balochistan University of Engineering and Technology Khuzdar",
+      "url": "http://www.buetk.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Balochistan University of Information Technology & Management Sciences ",
+      "url": "http://www.buitms.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Balqa Applied University",
+      "url": "http://www.bau.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baltic International Academy",
+      "url": "http://www.bsa.edu.lv/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baltic State Technical University",
+      "url": "http://www.voenmeh.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Balti State University \"Alecu Russo\"",
+      "url": "http://www.usarb.md/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bamenda University of Science & Technology",
+      "url": "http://www.bamendauniversity.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bamiyan University",
+      "url": "https://bu.edu.af"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Banaras Hindu University",
+      "url": "http://www.bhu.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Banasthali University",
+      "url": "http://www.banasthali.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Banat's University of Agricultural Sciences",
+      "url": "http://www.usab-tm.ro/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangabandhu Sheikh Mujibur Rahman Agricultural University",
+      "url": "https://bsmrau.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangabandhu Sheikh Mujibur Rahman Medical University",
+      "url": "http://www.bsmmu.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangalore University",
+      "url": "http://bengaluruuniversity.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangkok University",
+      "url": "http://www.bu.ac.th/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangladesh Agricultural University",
+      "url": "http://www.bau.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangladesh Army University of Science and Technology",
+      "url": "http://baust.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangladesh Open University",
+      "url": "http://www.bou.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangladesh University",
+      "url": "http://www.bu.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangladesh University of Business & Technology",
+      "url": "http://www.bubt.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangladesh University of Engineering and Technology",
+      "url": "http://www.buet.ac.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangladesh University of Professionals",
+      "url": "http://www.bup.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bangladesh University of Textiles",
+      "url": "http://www.butex.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Banking Academy of Vietnam",
+      "url": "https://hvnh.edu.vn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Angeles University",
+      "url": "http://www.auf.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "An Giang University",
+      "url": "https://www.agu.edu.vn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Angkor University",
+      "url": "http://www.angkor.edu.kh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anglia Ruskin University",
+      "url": "http://www.anglia.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anglo-American University",
+      "url": "http://www.aauni.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anhui Medical University",
+      "url": "http://www.ahmu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anhui Normal University",
+      "url": "http://www.ahnu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anhui Ploytechnic University",
+      "url": "http://www.ahpu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anhui Technical College of Water Resources and Hydroelectric Power",
+      "url": "http://www.ahsdxy.ah.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anhui University",
+      "url": "http://www.ahu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anhui University of Finance and Economics",
+      "url": "http://www.aufe.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anhui University of Traditional Chinese Medicine",
+      "url": "http://www.ahtcm.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ankara University",
+      "url": "http://www.ankara.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "An-Najah National University",
+      "url": "https://www.najah.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Annamalai University",
+      "url": "http://www.annamalaiuniversity.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anna University",
+      "url": "https://www.annauniv.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anna University of Technology, Tirunelveli",
+      "url": "http://www.auttvl.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anton Bruckner Privatuniversität ",
+      "url": "http://www.bruckneruni.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anton de Kom University",
+      "url": "http://www.uvs.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Antonine University",
+      "url": "https://www.ua.edu.lb/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aomori Chuoh Gakuin University",
+      "url": "http://www.aomoricgu.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aomori Public College",
+      "url": "http://www.nebuta.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aomori University",
+      "url": "http://www.aomori-u.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aomori University of Health and Welfare",
+      "url": "http://www.auhw.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aoyama Gakuin University",
+      "url": "http://www.aoyama.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Appiled Economics Research Centre, University of Karachi",
+      "url": "http://www.aerc.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Applied Science University",
+      "url": "http://www.asu.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Applied Science University",
+      "url": "http://www.asu.edu.bh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "AP University College",
+      "url": "https://www.ap.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Academy for Banking and Financial Sciences",
+      "url": "http://www.aabfs.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Academy for Science & Technology",
+      "url": "http://www.aast.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab American University - Jenin",
+      "url": "https://www.aaup.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab European University",
+      "url": "http://www.aiu.edu.sy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arabian Gulf University",
+      "url": "http://www.agu.edu.bh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Open University",
+      "url": "http://www.arabou.org.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Open University",
+      "url": "http://www.aou.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Open University",
+      "url": "http://www.aou.org.bh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Open University",
+      "url": "http://web.aou.edu.lb/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Open University",
+      "url": "https://www.aou.edu.om/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Open University",
+      "url": "http://www.aou.edu.eg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arab Open University, Kuwait Branch",
+      "url": "http://www.aou.edu.kw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ara Institute of Canterbury",
+      "url": "https://www.ara.ac.nz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arak University",
+      "url": "http://www.araku.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arak University of Medical Sciences",
+      "url": "http://www.arakmu.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arak University of Technology",
+      "url": "http://www.arakut.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Araullo University",
+      "url": "https://au.phinma.edu.ph"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aravali Veterinary College",
+      "url": "http://arawaliveterinarycollege.com"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arba Minch University",
+      "url": "http://www.amu.edu.et/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ardabil University of Medical Sciences",
+      "url": "http://www.arums.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Arellano University",
+      "url": "http://www.arellano.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Banking University of Ho Chi Minh City",
+      "url": "http://buh.edu.vn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bankura University",
+      "url": "http://www.bankurauniv.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baqai Medical University",
+      "url": "http://baqai.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Barcelona Graduate School of Economics",
+      "url": "http://www.barcelonagse.eu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bar-Ilan University",
+      "url": "https://www.aac.ac.il/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Barkatullah University",
+      "url": "http://www.bubhopal.nic.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bashkir State Agrarian University",
+      "url": "http://www.bashedu.ru/vuz/bgau_e.htm"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bashkir State Medical University",
+      "url": "http://www.bashedu.ru/vuz/bgmu_e.htm"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bashkir State Pedagogical University named After M. Akmullah",
+      "url": "http://www.bspu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bashkir State University",
+      "url": "http://www.bashedu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baskent University",
+      "url": "http://www.baskent.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Batangas State University",
+      "url": "http://batstate-u.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Batchelor Institute of Indigenous Tertiary Education",
+      "url": "https://www.batchelor.edu.au/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Batterjee Medical College",
+      "url": "http://www.bmc.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bauchi State University, Gadau",
+      "url": "http://www.basug.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bauhaus Universität Weimar",
+      "url": "https://www.uni-weimar.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bauman Moscow State Technical University",
+      "url": "http://www.bmstu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bayan College for Science & Technology",
+      "url": "http://www.bayantech.edu.sd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bayerische Julius-Maximilians-Universität Würzburg",
+      "url": "https://www.uni-wuerzburg.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bayero University Kano",
+      "url": "http://www.buk.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Baze University Abuja",
+      "url": "http://www.bazeuniversity.edu.ng"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beder University",
+      "url": "http://www.beder.edu.al/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Begum Rokeya University, Rangpur",
+      "url": "http://www.brur.ac.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Foreign Studies University",
+      "url": "http://www.bfsu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Forestry University",
+      "url": "http://www.bjfu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Information Science and Technology University",
+      "url": "http://www.bistu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Institute of Technology",
+      "url": "http://www.bit.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing International Studies University",
+      "url": "http://www.bisu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Language and Culture University",
+      "url": "http://www.blcu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Medical University",
+      "url": "http://www.bjmu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing New Asia University",
+      "url": "http://www.newasia.bj.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Normal University",
+      "url": "http://www.bnu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Sport University",
+      "url": "http://www.bsu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing Union University",
+      "url": "http://www.buu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing University of Aeronautics and Astronautics",
+      "url": "http://www.buaa.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing University of Agriculture",
+      "url": "http://www.bac.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing University of Chemical Technology",
+      "url": "http://www.buct.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing University of Chinese Medicine",
+      "url": "http://www.bucm.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing University of Posts and Telecommunications",
+      "url": "http://www.bupt.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing University of Science and Technology",
+      "url": "http://www.ustb.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beijing University of Technology",
+      "url": "http://www.bjut.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Beirut Arab University",
+      "url": "http://www.bau.edu.lb/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Belarusian-Russian University",
+      "url": "http://www.bru.mogilev.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Belarussian National Technical University",
+      "url": "http://www.bntu.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Belarussian State Academy of Music",
+      "url": "http://www.bgam.edu.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Belarussian State Agrarian Technical University",
+      "url": "http://www.batu.edu.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Belarussian State Agricultural Academy",
+      "url": "http://www.baa.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Belarussian State Economic University",
+      "url": "http://www.bseu.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Belarussian State Medical University",
+      "url": "http://www.bsmu.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Belarussian State Pedagogical University M. Tanka",
+      "url": "http://www.bspu.unibel.by/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ambrose Alli University",
+      "url": "http://www.aauekpoma.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American College of Dubai",
+      "url": "http://www.acd.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American College of Greece",
+      "url": "http://www.acg.gr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American College of Thessaloniki",
+      "url": "http://www.act.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American Graduate School in Paris",
+      "url": "http://www.ags.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American InterContinental University - London",
+      "url": "http://www.aiuniv.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American International University - Bangladesh",
+      "url": "http://www.aiub.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American International University West Africa",
+      "url": "http://www.aiu.edu.gm/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Americanos College",
+      "url": "http://www.ac.ac.cy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University",
+      "url": "http://www.aubih.ba/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University College of Technology",
+      "url": "http://www.aut.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University Extension, Okinawa",
+      "url": "http://www.aue-okinawa.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University in Bulgaria",
+      "url": "https://www.aubg.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University in Cairo",
+      "url": "http://www.aucegypt.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University in Dubai",
+      "url": "http://www.aud.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University in the Emirates",
+      "url": "https://aue.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Afghanistan",
+      "url": "https://auaf.edu.af"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Antigua",
+      "url": "http://www.auamed.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Armenia",
+      "url": "http://www.aua.am/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Barbados",
+      "url": "http://www.aubmed.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Beirut",
+      "url": "http://www.aub.edu.lb/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Central Asia",
+      "url": "https://auca.kg"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Culture and Education ",
+      "url": "http://www.auce.edu.lb/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Europe - FON",
+      "url": "http://aue.edu.eu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Iraq, Sulaimani (Kurdistan Region)",
+      "url": "https://auis.edu.krd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Kuwait ",
+      "url": "http://www.auk.edu.kw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Madaba",
+      "url": "https://aum.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Middle East",
+      "url": "http://www.aum.edu.kw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Paris",
+      "url": "http://www.aup.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Ras Al Khaimah",
+      "url": "https://aurak.ac.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Science and Technology",
+      "url": "https://www.aust.edu.lb/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Sharjah",
+      "url": "https://www.aus.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of the Caribbean",
+      "url": "http://www.auchaiti.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of the Caribbean, School of Medicine",
+      "url": "http://www.aucmed.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of the Caribbean, Sint Maarten",
+      "url": "https://www.aucmed.edu"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "American University of Tirana",
+      "url": "http://www.uat.edu.al/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Amirkabir College of Managmant & Technology",
+      "url": "http://www.acmt.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Amirkabir University of Technology",
+      "url": "http://www.aut.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Amity University",
+      "url": "http://www.amity.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Amman Arab University for Higher Studies",
+      "url": "http://www.aau.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Amoud University",
+      "url": "http://www.amouduniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Amravati University",
+      "url": "http://www.amtuni.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Amrita Vishwa Vidyapeetham (Deemed University)",
+      "url": "https://www.amrita.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Amur State University",
+      "url": "http://www.amursu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anadolu University",
+      "url": "http://www.anadolu.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Anambra State University of Science and Technology",
+      "url": "http://www.ansu.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Andhra University",
+      "url": "http://www.andhrauniversity.info/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Andong National University",
+      "url": "http://www.andong.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Andrassy Gyula German Speaking University Budapest",
+      "url": "http://www.andrassyuni.hu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Andrzej Frycz Modrzewski Cracow College",
+      "url": "http://www.ksw.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alkafeel University College",
+      "url": "http://uch.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Khair University",
+      "url": "http://alkhair.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Khawarizmi International College",
+      "url": "https://kic.ac.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Allahabad Agricultural Institute, Deemed University",
+      "url": "http://www.aaidu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Allahabad University",
+      "url": "http://www.alldunivpio.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Allama Iqbal Open University",
+      "url": "http://www.aiou.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Allameh Tabatabaie University",
+      "url": "http://www.atu.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alliance University",
+      "url": "https://www.alliance.edu.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Allianze College of Medical Sciences (ACMS)",
+      "url": "http://www.acms.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "All India Institute of Medical Sciences",
+      "url": "http://www.aiims.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "All Nations University College",
+      "url": "http://anuc.edu.gh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "All Saints University College of Medicine",
+      "url": "https://allsaintsu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "All Saints University College of Medicine St Vincent",
+      "url": "https://allsaintsu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "All Saints University School of Medicine",
+      "url": "http://www.allsaintsuniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Maarif University College",
+      "url": "http://www.auc-edu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Madinah International University",
+      "url": "http://www.mediu.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Manar University",
+      "url": "http://www.mut.edu.lb/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Mansour University College",
+      "url": "http://www.muc.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Almaty Management University ",
+      "url": "https://www.almau.edu.kz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Almughtaribeen University",
+      "url": "https://www.mu.edu.sd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Almustafa Open University",
+      "url": "http://www.almustafaou.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Mustaqbal University College",
+      "url": "https://uomus.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Muthanna University",
+      "url": "http://mu.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Nahrain University",
+      "url": "http://nahrainuniv.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Nasser University",
+      "url": "http://www.al-edu.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Nisour University Collge",
+      "url": "https://nuc.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alpen-Adria-Universität Klagenfurt",
+      "url": "https://www.aau.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Qalam University, Katsina",
+      "url": "http://www.auk.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Quds Open University",
+      "url": "http://www.qou.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Quds University - The Arab University in Jerusalem",
+      "url": "https://www.alquds.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Rafidain University College",
+      "url": "http://raf.coalrafidain.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Rasheed University College",
+      "url": "http://www.alrasheed-uc.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-razi University",
+      "url": "http://alraziuni.edu.ye/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Saeeda University",
+      "url": "https://su-edu.net/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "al-Shamal Private University",
+      "url": "https://spu-sy.org"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-sham Private University",
+      "url": "http://www.aspu.edu.sy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Altai State Agrarian University",
+      "url": "https://www.asau.ru"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Altai State Medical University",
+      "url": "http://www.asmu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Altai State Technical University",
+      "url": "http://www.astu.secna.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Altai State University",
+      "url": "http://www.asu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Altinbas University ",
+      "url": "http://altinbas.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Turath University College",
+      "url": "http://www.turathun.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Wataniya Private University",
+      "url": "http://www.wpu.edu.sy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Yamamah University",
+      "url": "https://yu.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Yarmouk University College",
+      "url": "http://www.yu.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Zaiem Al-Azhari University",
+      "url": "https://aau.edu.sd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Zaytoonah University",
+      "url": "http://www.zuj.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ama International University",
+      "url": "http://www.amaiu.edu.bh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ama University",
+      "url": "http://www.ama.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ambo University",
+      "url": "http://www.ambou.edu.et/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aksum University",
+      "url": "http://www.aku.edu.et/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aktau State University",
+      "url": "http://www.aktsu.kz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aku University",
+      "url": "https://www.aku.ac.in"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Akwa Ibom State University",
+      "url": "http://www.aksu.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alagappa University",
+      "url": "http://www.alagappauniversity.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alahgaff University",
+      "url": "http://www.ahgaff.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Ahlia University",
+      "url": "http://www.ahliauniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Ahliyya Amman University",
+      "url": "http://www.ammanu.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alain University of Science and Technology",
+      "url": "https://aau.ac.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Akhawayn University",
+      "url": "http://www.aui.ma/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al al-Bayt University",
+      "url": "https://www.aabu.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Aqsa University",
+      "url": "http://www.alaqsa.edu.ps/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Asmarya University for Islamic Studies",
+      "url": "http://www.asmarya.edu.ly/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Azhar University",
+      "url": "http://www.azhar.edu.eg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Azhar University of Gaza",
+      "url": "http://www.alazhar.edu.ps/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Baath University",
+      "url": "http://albaath-univ.edu.sy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Baha University",
+      "url": "https://bu.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Balqa Applied University",
+      "url": "http://www.bau.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Batterjee Medical College",
+      "url": "http://www.bmcmedcollege.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Beroni University",
+      "url": "https://www.au.edu.af"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Albert-Ludwigs-Universität Freiburg",
+      "url": "http://www.uni-freiburg.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Bukhari International University",
+      "url": "http://www.aiu.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Buraimi University College",
+      "url": "http://buc.edu.om/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aleksander Gieysztor School of Humanities in Pultusk",
+      "url": "http://www.wsh.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aleksander Zelwerowicz State Theatre Academy",
+      "url": "http://www.at.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aleksandras Stulginskis university",
+      "url": "https://asu.lt/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aletheia University",
+      "url": "https://www.au.edu.tw"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alexandria University",
+      "url": "https://www.alexu.edu.eg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alfaisal University",
+      "url": "http://www.alfaisal.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alfalah University",
+      "url": "https://alfalah.edu.af"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Falah University",
+      "url": "https://afu.ac.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Farabi Kazakh National University",
+      "url": "http://www.kaznu.kz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Fashir University",
+      "url": "http://www.fashir.edu.sd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alfred Nobel University of Economics and Law ",
+      "url": "http://duan.edu.ua/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Ghurair University",
+      "url": "https://www.agu.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Algonquin College",
+      "url": "http://www.algonquincollege.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alhamd Islamic University",
+      "url": "http://www.aiu.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Hikmah University",
+      "url": "http://alhikmah.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alhosn University",
+      "url": "http://www.alhosnu.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Hussein Bin Talal University",
+      "url": "http://www.ahu.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Alice Salomon Hochschule Berlin",
+      "url": "https://www.ash-berlin.eu"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aligarh Muslim University",
+      "url": "http://www.amu.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Imam Al-Ouzai University",
+      "url": "https://www.ouzai.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Imam Mohamed Ibn Saud Islamic University",
+      "url": "http://www.imamu.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al Iraqia University",
+      "url": "http://www.aliraqia.edu.iq/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Islah University",
+      "url": "http://www.islahonline.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Isra University",
+      "url": "http://www.iu.edu.jo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Al-Jabal Al-Gharbi University",
+      "url": "http://www.jgu.edu.ly/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aljazeera  University ",
+      "url": "https://aljazeeraibb.edu.ye/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Aljouf University",
+      "url": "http://www.ju.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "College of Technology at Jazan",
+      "url": "http://www.tnmeyah.net/jct/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "College of Technology at Jeddah",
+      "url": "http://www.jct.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "College of Technology at Kharj",
+      "url": "http://kct.gotevot.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "College of Technology at Riyadh",
+      "url": "http://www.rct.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "College of Telecommunication & Information ",
+      "url": "http://www.cti.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "College of the Holy Spirit",
+      "url": "https://www.holyspirit.edu.ph"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "College of the Rockies",
+      "url": "http://www.cotr.bc.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Collegium Civitas",
+      "url": "http://www.collegium.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Columbia College",
+      "url": "https://www.columbiacollege.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Columbia Commonwealth University of Malawi",
+      "url": "http://www.ccwum.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Columbus University",
+      "url": "http://www.columbus.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Comenius University in Bratislava",
+      "url": "http://www.uniba.sk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Comilla Medical College",
+      "url": "http://comc.gov.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Comilla University",
+      "url": "http://www.cou.ac.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Communication University of China",
+      "url": "http://www.cuc.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Comrat State University",
+      "url": "http://kdu.md/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "COMSATS Institute of Information Technology",
+      "url": "https://www.comsats.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "COMSATS Institute of Information Technology, Abbottabad",
+      "url": "http://www.ciit-atd.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "COMSATS Institute of Information Technology, Attock",
+      "url": "http://www.ciit-attock.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "COMSATS Institute of Information Technology, Lahore",
+      "url": "http://lahore.comsats.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "COMSATS Institute of Information Technology, Wah",
+      "url": "http://wah.comsats.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Concordia University",
+      "url": "http://www.concordia.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Concordia University College of Alberta",
+      "url": "http://concordia.ab.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Conestoga College",
+      "url": "http://www.conestogac.on.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Conservatoire National des Arts et Métiers",
+      "url": "http://www.cnam.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Conservatorio del Tolima",
+      "url": "http://www.conservatoriodeltolima.edu.co/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Constantin Brancoveanu University Pitesti",
+      "url": "http://www.univcb.ro/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Continental Theological Seminary",
+      "url": "http://www.ctsem.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Copenhagen Business Academy",
+      "url": "https://www.cphbusiness.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Copenhagen Business School",
+      "url": "http://www.cbs.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Copenhagen University",
+      "url": "http://www.ku.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Copperbelt University",
+      "url": "https://www.cbu.ac.zm/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cordoba Private University",
+      "url": "http://main.cpu.edu.sy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cor Jesu College",
+      "url": "https://www.cjc.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cork Institute of Technology",
+      "url": "http://www.cit.ie/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Corporación Educativa Mayor del Desarrollo \"Simón Bolivar\"",
+      "url": "http://www.unisimonbolivar.edu.co/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Corporación Universitaria de la Costa (UNICOSTA)",
+      "url": "https://www.cuc.edu.co/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Corporacion Universitaria Lasallista",
+      "url": "https://www.unilasallista.edu.co/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Corporacion Universitaria Minuto De Dios (UNIMINUTO)",
+      "url": "https://www.uniminuto.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Courtauld Institute of Art, University of London",
+      "url": "http://www.courtauld.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Covenant University",
+      "url": "http://covenantuniversity.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Coventry University",
+      "url": "http://www.coventry.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cranfield University",
+      "url": "http://www.cranfield.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Crawford University ",
+      "url": "http://www.crawforduniversity.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Crescendo International College",
+      "url": "http://www.crescendo.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Crescent University",
+      "url": "http://crescent-university.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Crimea State Medical University",
+      "url": "http://www.crsmu.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cross River University of Science and Technology",
+      "url": "https://www.crutech.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cubidor University Switzerland",
+      "url": "http://www.cubidor.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cuc Ulster University Qatar",
+      "url": "https://cuc-ulster.edu.qa"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cukurova University",
+      "url": "http://www.cu.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Culture & Science City",
+      "url": "http://csi.edu.eg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cumhuriyet (Republik) University",
+      "url": "http://www.cumhuriyet.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Curtin University of Technology",
+      "url": "http://www.curtin.edu.au/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Curtin University of Technology, Sarawak Campus",
+      "url": "http://www.curtin.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cyberjaya University College of Medical Science",
+      "url": "http://www.cybermed.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cyprus College",
+      "url": "http://www.cycollege.ac.cy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cyprus International Institute of Management (CIIM)",
+      "url": "http://www.ciim.ac.cy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cyprus International University",
+      "url": "http://www.ciu.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cyprus University of Technology",
+      "url": "http://www.cut.ac.cy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cyryx College",
+      "url": "https://cyryxcollege.edu.mv"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Czech Technical University of Prague",
+      "url": "http://www.cvut.cz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Czech University of Agriculture Prague",
+      "url": "http://www.czu.cz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dadabhoy Institute of Higher Education",
+      "url": "http://dadabhoy.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daebul University",
+      "url": "http://www.daebul.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daegu University",
+      "url": "https://www.daegu.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daeyang University",
+      "url": "http://www.dyuni.ac.mw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daffodil International University",
+      "url": "http://www.daffodilvarsity.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dagestan State University",
+      "url": "http://www.dgu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dagon University",
+      "url": "http://www.dagonuniversity.edu.mm/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daido Institute of Technology",
+      "url": "http://www.daido-it.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daiichi College of Pharmaceutical Sciences",
+      "url": "http://www.daiichi-cps.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dai Ichi University, College of Technology",
+      "url": "http://www.daiichi-koudai.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daiichi University of Economics",
+      "url": "http://www.daiichi-ue.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daito Bunka University",
+      "url": "http://www.daito.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalanj University",
+      "url": "http://www.dalanjuniversity.edu.sd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalarna University College",
+      "url": "http://www.du.se/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalhousie University",
+      "url": "https://www.dal.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalian Jiaotong University",
+      "url": "http://www.djtu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalian Martime University",
+      "url": "http://www.dlmu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalian Medical University",
+      "url": "http://www.dlmedu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalian Polytechnic University",
+      "url": "http://www.dlpu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalian University",
+      "url": "http://www.dlu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalian University of Foreign Language",
+      "url": "http://www.dlufl.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dalian University of Technology",
+      "url": "http://www.dlut.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Damanhour University",
+      "url": "http://www.damanhour.edu.eg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Damascus University",
+      "url": "http://www.damascusuniversity.edu.sy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Damghan University of Basic Sciences",
+      "url": "http://www.dubs.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Damietta University",
+      "url": "http://www.du.edu.eg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dammam Community College",
+      "url": "http://www.dcc.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Danang College of Technology",
+      "url": "http://www.dct.udn.vn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Daneshestan Institute of Higher Education",
+      "url": "http://www.sdi.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dániel Berzsenyi Teacher Training College",
+      "url": "http://www.bdtf.hu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Danish University of Education",
+      "url": "http://www.dpu.dk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dankook University",
+      "url": "http://www.dankook.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dar al Hekma College",
+      "url": "http://www.daralhekma.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dar Al-Uloom Colleges",
+      "url": "https://dau.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dares Salaam Institute of Technology",
+      "url": "http://www.dit.ac.tz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Darul Hikmah Islamic College",
+      "url": "http://www.hikmah.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Darul Huda Islamic University",
+      "url": "http://dhiu.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cambodia University of Specialties",
+      "url": "http://www.cus.edu.kh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Camosun College",
+      "url": "http://camosun.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Campion College",
+      "url": "http://campioncollege.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Campion College Australia",
+      "url": "https://www.campion.edu.au"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Campus Bio-Medico University of Rome",
+      "url": "http://www.unicampus.it/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Canadian College of Business & Computers",
+      "url": "http://www.ccbc.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Canadian Mennonite University",
+      "url": "http://www.cmu.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Canadian Sudanese College",
+      "url": "http://www.ccs.edu.sd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Canakkale (18th March) University",
+      "url": "http://www.comu.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cankaya University",
+      "url": "http://www.cankaya.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Canterbury Christ Church University",
+      "url": "http://www.canterbury.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Can-Tho University",
+      "url": "https://www.ctu.edu.vn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cape Breton University",
+      "url": "https://www.cbu.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cape Coast Polytechnic ",
+      "url": "http://www.cpoly.edu.gh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cape Peninsula University of Technology",
+      "url": "http://www.cput.ac.za/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Capilano University",
+      "url": "https://www.capilanou.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Capital Normal University",
+      "url": "http://www.cnu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Capital University of Economics and Business",
+      "url": "http://www.cueb.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Capital University of Medical Sciences",
+      "url": "http://www.ccmu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Capitol University",
+      "url": "https://www.cu.edu.ph"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cardiff Metropolitan University",
+      "url": "http://www.cardiffmet.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cardiff University",
+      "url": "http://www.cardiff.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cardinal Stefan Wyszynski University in Warsaw",
+      "url": "http://www.uksw.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Career Point University, Rajasthan",
+      "url": "http://www.cpur.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Caribbean University",
+      "url": "http://www.caribbean.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Caritas University",
+      "url": "http://www.caritasuni.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Carleton University",
+      "url": "http://carleton.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Carlow Institute of Technology",
+      "url": "http://www.itcarlow.ie/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Carl von Ossietzky Universität Oldenburg",
+      "url": "https://uol.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Castelldefels Business School ",
+      "url": "https://www.csss.es/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University in Ruzomberok",
+      "url": "http://www.ku.sk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University in Ružomberok",
+      "url": "http://www.ku.sk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University in Zimbabwe",
+      "url": "http://www.cuz.ac.zw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University of Eastern Africa",
+      "url": "http://www.cuea.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University of Korea",
+      "url": "http://www.cuk.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University of Lublin",
+      "url": "http://www.kul.lublin.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University of Malawi",
+      "url": "http://www.cunima.ac.mw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University of Pusan",
+      "url": "http://www.cup.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Catholic University of Taegu-Hyosung",
+      "url": "http://www.cataegu.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Caucasus University",
+      "url": "http://www.cu.edu.ge/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cavendish University",
+      "url": "https://www.cavendishza.org"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "CBS International Business School",
+      "url": "https://cbs.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "CCS Haryana Agricultural University",
+      "url": "http://hau.ernet.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cecos Univeristy of Information Technology",
+      "url": "http://www.cecos.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Celal Bayar University",
+      "url": "http://www.bayar.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Centennial College",
+      "url": "http://www.centennialcollege.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Center for Entrepreneurship and Small Business Management",
+      "url": "http://www.cesbm.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Central Academy of  Fine Art",
+      "url": "http://www.cafa.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Central Agricultural University",
+      "url": "http://www.cau.org.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Central America Health Sciences University (Belize Medical College)",
+      "url": "http://www.cahsu.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Centro Universitário Fieo",
+      "url": "http://www.unifieo.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Centro Universitário Monte Serrat",
+      "url": "http://www.unimonte.br/capa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Centro Universitário Newton Paiva",
+      "url": "https://www.newtonpaiva.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Centro Universitário Ritter dos Reis - Uniritter",
+      "url": "https://www.uniritter.edu.br"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Centro Universitário Senac",
+      "url": "https://www.sp.senac.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Centro Universitário Serra dos Órgãos",
+      "url": "http://www.unifeso.edu.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Centro Universitario Villanueva",
+      "url": "http://www.villanueva.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "César Ritz Colleges Switzerland",
+      "url": "https://www.cesarritzcolleges.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "CETYS Universidad",
+      "url": "http://www.cetys.mx/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cevro Institut College",
+      "url": "http://www.vsci.cz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chalmers University of Technology",
+      "url": "http://www.chalmers.se/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chamreun University of Poly Technology",
+      "url": "http://www.cup.edu.kh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chanakya National Law University",
+      "url": "http://cnlu.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chandra Shekhar Azad University of Agriculture and Technology",
+      "url": "http://www.csauk.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Changchun Normal University",
+      "url": "http://www.cncnc.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Changchun University of Technology",
+      "url": "http://www.ccut.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chang Gung University",
+      "url": "http://www.cgu.edu.tw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chang Jung Christian University",
+      "url": "https://www.cjcu.edu.tw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Changsha University of Electric Power",
+      "url": "http://www.csuep.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Changwon National University",
+      "url": "http://www.changwon.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chaopraya University ",
+      "url": "http://www.cpu.ac.th/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chao Yang University of Science and Technology",
+      "url": "http://www.cyut.edu.tw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Charisma University",
+      "url": "http://www.charismauniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Charles Darwin University",
+      "url": "http://www.cdu.edu.au/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Charles Sturt University",
+      "url": "http://www.csu.edu.au/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Charles University Prague",
+      "url": "http://www.cuni.cz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Charotar University Of Science & Technology",
+      "url": "https://charusat.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chattogram Veterinary and Animal Science University ",
+      "url": "https://cvasu.ac.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chaudhary Charan Singh Haryana Agricultural University",
+      "url": "http://www.hau.ernet.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chaudhary Charan Singh University",
+      "url": "http://www.ccsuniversity.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ch. Charan Singh University",
+      "url": "http://www.ccsuniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cheljabinsk State Institute of Teacher Training",
+      "url": "http://cspi.urc.ac.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cheljabinsk State University",
+      "url": "http://www.csu.ac.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cheljabinsk University of Agricultural Engineering",
+      "url": "http://www.urc.ac.ru/Universities/AGRO/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chelsea College of Art and Design",
+      "url": "http://www.chelsea.linst.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chengdu Institute of Sichuan International Studies University",
+      "url": "http://www.cisisu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chengdu University",
+      "url": "http://www.cdu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chengdu University of Technology",
+      "url": "http://www.cdut.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chengdu University of Traditional Chinese Medicine",
+      "url": "http://www.cdutcm.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chernivci National University",
+      "url": "http://www.chnu.cv.ua/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chhatrapati Shahu Ji Maharaj University",
+      "url": "http://www.kanpuruniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chia Nan University of Pharmacy and Science",
+      "url": "https://www.cnu.edu.tw/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chiang Mai Rajabhat University",
+      "url": "http://www.cmru.ac.th/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chiang Mai University",
+      "url": "http://www.cmu.ac.th/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chiang Mai Vocational College",
+      "url": "http://www.cmvc.ac.th/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chiba Institute of Technology",
+      "url": "http://www.it-chiba.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chiba Keizai University",
+      "url": "http://www.cku.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chiba University",
+      "url": "http://www.chiba-u.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chiba University of Commerce",
+      "url": "http://www.cuc.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Chihlee  University of Technology ",
+      "url": "https://www.chihlee.edu.tw"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "British College of Osteopathic Medicine",
+      "url": "http://www.bcom.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "British Columbia Institute of Technology",
+      "url": "http://www.bcit.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "British Institute in Paris, University of London",
+      "url": "http://www.bip.lon.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "British Malaysian Institute",
+      "url": "http://www.bmi.edu.my/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "British University in Dubai",
+      "url": "http://www.buid.ac.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "British University of Vietnam",
+      "url": "https://www.buv.edu.vn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Brjansk State Technical University",
+      "url": "http://www.tu-bryansk.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Brno University of Technology",
+      "url": "http://www.vutbr.cz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Brock University",
+      "url": "https://brocku.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Brookdale Community College",
+      "url": "http://www.brookdale.edu.ec/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Brunel University Uxbridge",
+      "url": "http://www.brunel.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Brussels Management School (ICHEC)",
+      "url": "http://www.ichec.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Brussels School of International Studies",
+      "url": "http://www.ukc.ac.uk/international/bsis/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "B. S. Abdur Rahman University",
+      "url": "http://www.bsauniv.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bu Ali Sina University",
+      "url": "http://www.basu.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "BU Business School",
+      "url": "http://www.bubs.es/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Buckinghamshire New University",
+      "url": "http://www.bucks.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Budapest Buddhist University",
+      "url": "http://www.tkbf.hu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Budapest University of Economic Sciences and Public Administration",
+      "url": "http://www.bke.hu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Buddhasravaka Bhikshu University",
+      "url": "http://www.bbu.ac.lk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Buddhist Acamedy of China",
+      "url": "http://www.zgfxy.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Buddhist and Pali University of Sri Lanka",
+      "url": "http://www.bpu.ac.lk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bugema University",
+      "url": "http://bugemauniv.ac.ug/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Build Bright University",
+      "url": "http://www.bbu.edu.kh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bukkyo University",
+      "url": "http://www.bukkyo-u.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bulacan State University",
+      "url": "http://www.bulsu.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bule Hora University",
+      "url": "http://www.bhu.edu.et/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bülent Ecevit University",
+      "url": "http://beun.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bundelkhand University",
+      "url": "https://www.bujhansi.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bunka Women's University",
+      "url": "http://www.bunka-wu.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bunkyo University",
+      "url": "http://www.bunkyo.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Burapha University",
+      "url": "http://www.buu.ac.th/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Buraydah College for Applied Medical Sciences",
+      "url": "http://www.bpc.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Burdur Mehmet Akif Ersoy Unıversıty",
+      "url": "https://www.mehmetakif.edu.tr"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Burdwan University",
+      "url": "http://www.buruniv.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Burjat State University",
+      "url": "http://www.bsu.burnet.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Busan University of Foreign Studies",
+      "url": "https://www.bufs.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Bushehr University of Medical Sciences",
+      "url": "http://www.bpums.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Business and Hotel Management School",
+      "url": "http://www.bhms.ch/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Business School Barcelona",
+      "url": "https://barcelona.euruni.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Business School Lausanne (BSL)",
+      "url": "http://www.bsl-lausanne.ch/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Busitema University",
+      "url": "http://www.busitema.ac.ug/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Busoga University",
+      "url": "http://www.busogauniversity.ac.ug/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cagayan State University",
+      "url": "http://www.csu.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cag University",
+      "url": "http://www.cag.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cairo University",
+      "url": "http://www.cu.edu.eg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Caleb University",
+      "url": "http://www.calebuniversity.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Calorx Teacher's University",
+      "url": "http://www.ctu.kalorex.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Camberwell College of Arts",
+      "url": "http://www.camb.linst.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Cambodian Mekong University",
+      "url": "http://www.mekong.edu.kh/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University Portugal",
+      "url": "https://www.europeia.pt/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hhochschule Moritzburg",
+      "url": "http://www.eh-moritzburg.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hochschule Berlin",
+      "url": "https://www.eh-berlin.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hochschule Darmstadt",
+      "url": "https://www.eh-darmstadt.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hochschule Freiburg",
+      "url": "https://www.eh-freiburg.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hochschule für Soziale Arbeit Dresden (FH)",
+      "url": "http://www.ehs-dresden.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hochschule Hamburg",
+      "url": "https://ev-hochschule-hh.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hochschule Ludwigsburg",
+      "url": "https://www.eh-ludwigsburg.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hochschule Nürnberg",
+      "url": "https://www.evhn.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Hochschule Rheinland-Westfalen-Lippe in Bochum (EvH RWL",
+      "url": "https://www.evh-bochum.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Evangelische Theologische Faculteit, Leuven",
+      "url": "http://www.etf.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "EVTEK University of Applied Sciences",
+      "url": "http://www.evtek.fi/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ewha Women's University",
+      "url": "http://www.ewha.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FAAP - Fundação Armando Alvares Penteado",
+      "url": "http://www.faap.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Aachen",
+      "url": "https://www.fh-aachen.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Burgenland",
+      "url": "http://www.fh-burgenland.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule der Wirtschaft",
+      "url": "https://www.fhdw.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule des BFI Wien",
+      "url": "http://www.fh-vie.ac.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule des Mittelstandes (FHM)",
+      "url": "https://www.fh-mittelstand.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Dortmund",
+      "url": "http://www.fh-dortmund.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Erfurt",
+      "url": "https://www.fh-erfurt.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule für die Wirtschaft Hannover",
+      "url": "https://www.fhdw-hannover.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule JOANNEUM",
+      "url": "https://fh-joanneum.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Kärnten",
+      "url": "https://www.fh-kaernten.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Kiel",
+      "url": "http://www.fh-kiel.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Krems",
+      "url": "https://www.fh-krems.ac.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Kufstein (Tirol)",
+      "url": "https://www.fh-kufstein.ac.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Münster",
+      "url": "https://www.fh-muenster.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Nordwestschweiz",
+      "url": "https://www.fhnw.ch/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Potsdam",
+      "url": "https://www.fh-potsdam.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Salzburg",
+      "url": "https://www.fh-salzburg.ac.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Schwäbisch Hall",
+      "url": "https://fhsh.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule St. Gallen",
+      "url": "https://www.fhsg.ch/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule St. Pölten",
+      "url": "https://www.fhstp.ac.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Südwestfalen",
+      "url": "https://www.fh-swf.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Vorarlberg",
+      "url": "http://www.fhv.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Wedel",
+      "url": "http://www.fh-wedel.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+      "url": "http://www.fh-westkueste.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fachhochschule Wiener Neustadt",
+      "url": "http://www.fhwn.ac.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdade Arnaldo",
+      "url": "https://www.faculdadearnaldo.com.br"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdade de Informática e Administração Paulista",
+      "url": "https://www.fiap.com.br"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdade de Jaguariúna",
+      "url": "http://www.faj.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdade Italo Brasileira",
+      "url": "https://italo.com.br"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdades Integradas Curitiba",
+      "url": "http://www.faculdadescuritiba.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdades Integradas de Botucatu (UNIFAC)",
+      "url": "http://www.unifac.edu.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdades Integradas do Brasil (UNIBRASIL)",
+      "url": "http://www.unibrasil.com.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdades Integradas Toledo",
+      "url": "https://unitoledo.br"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdades Integradas UPIS",
+      "url": "http://www.upis.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdades Metropolitanas Unidas (FMU)",
+      "url": "http://www.portal.fmu.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculdades Oswaldo Cruz",
+      "url": "https://www.oswaldocruz.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faculté Polytechnique de Mons",
+      "url": "http://www.fpms.ac.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Facultés Universitaires Catholiques de Mons",
+      "url": "http://www.fucam.ac.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Facultés Universitaires Notre-Dame de la Paix",
+      "url": "http://www.fundp.ac.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Facultés Universitaires Saint-Louis",
+      "url": "http://www.fusl.ac.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FAE Business School - Faculdade de Administração e Economia",
+      "url": "http://www.fae.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fahad Bin Sultan University",
+      "url": "http://www.fbsc.edu.sa/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fakir Mohan University",
+      "url": "http://www.fmuniversity.nic.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Falmouth University",
+      "url": "http://www.falmouth.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fanshawe College",
+      "url": "https://www.fanshawec.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Far Easten State University of Humanities",
+      "url": "http://www.khspu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Far Eastern State Technical Fisheries University",
+      "url": "http://www.dalrybvtuz.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Far Eastern State Technical University",
+      "url": "http://www.festu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Far Eastern State University",
+      "url": "http://www.dvgu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Far Eastern University",
+      "url": "http://www.feu.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Far East State Transport University",
+      "url": "http://www.dvgups.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Far-Western University",
+      "url": "http://fwu.edu.np/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Faryab University",
+      "url": "http://www.faryab.edu.af/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fasa Faculty of Medical Sciences",
+      "url": "http://www.fums.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FAST - National University of Computer and Emerging Sciences (NUCES)",
+      "url": "http://www.nu.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fatima mata national college kollam kerala",
+      "url": "http://fatimamatanationalcollege.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fayoum University",
+      "url": "http://www.fayoum.edu.eg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FEAD - Centro de Gestao Empreendedora",
+      "url": "http://www.fead.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Feati University",
+      "url": "http://www.featiu.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federal College Of Education (Technical), Akoka",
+      "url": "http://www.fcetakoka-edu.net/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federal Polytechnic Bauchi, Nigeria",
+      "url": "https://fptb.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federal University of Petroleum Resources",
+      "url": "http://www.fupre.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federal University of Technology, Akure",
+      "url": "http://www.futa.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federal University of Technology, Minna",
+      "url": "https://www.futminna.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federal University of Technology, Owerri",
+      "url": "https://futo.edu.ng/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federal University Otuoke, Bayelsa State",
+      "url": "http://www.fuotuoke.edu.ng"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federal Urdu University of Arts,Science and Technology",
+      "url": "https://fuuast.edu.pk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Federation University Australia",
+      "url": "https://federation.edu.au/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Feng Chia University",
+      "url": "https://www.fcu.edu.tw"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FEPI - Centro Universitario de Itajuba",
+      "url": "https://fepi.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ferdowsi University of Mashhad",
+      "url": "http://www.um.ac.ir/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ferghana Politechnical Institute",
+      "url": "http://ferpi.dem.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fern-Fachhochschule Hamburg",
+      "url": "https://www.hfh-fernstudium.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fernuniversität Gesamthochschule Hagen",
+      "url": "http://www.fernuni-hagen.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ferris University",
+      "url": "http://www.ferris.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FH Oberösterreich, Campus Hagenberg",
+      "url": "https://www.fh-ooe.at/campus-hagenberg/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FH Oberösterreich, Campus Linz",
+      "url": "https://www.fh-ooe.at/campus-linz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FH Oberösterreich, Campus Steyr",
+      "url": "https://www.fh-ooe.at/campus-steyr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FH Oberösterreich, Campus Wels",
+      "url": "https://www.fh-ooe.at/campus-wels/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "FH Wien der WKW",
+      "url": "http://www.fh-wien.ac.at/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fiji National University ",
+      "url": "http://www.fnu.ac.fj/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fiji School of Medicine",
+      "url": "http://www.fsm.ac.fj/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Film Academy Delhi",
+      "url": "http://aaft.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Finance University",
+      "url": "http://www.fa.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fine Arts Academy in Gdansk",
+      "url": "http://www.asp.gda.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Fine Arts Academy in Katowice",
+      "url": "http://www.aspkat.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela de Ingeniería de Antioquia",
+      "url": "http://www.eia.edu.co/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela de Medicina y Cirugía Veterinaria San Francisco de Asis",
+      "url": "https://veterinariaveritas.ac.cr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela de Policia \"General Santander\"",
+      "url": "https://www.policia.gov.co/escuelas/general-santander"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela Militar de Ingeniería",
+      "url": "http://www.emi.edu.bo/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela Nacional de Estudios Superiores Unidad León",
+      "url": "http://enes.unam.mx/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela Politécnica de Chimborazo",
+      "url": "http://www.espoch.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela Politécnica del Ejercito",
+      "url": "http://www.espe.edu.ec"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela Politécnica Nacional",
+      "url": "http://www.epn.edu.ec/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela Superior de Gestion Comercial y Marketing (ESIC)",
+      "url": "https://www.esic.edu"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela Superiore de Administración Pública",
+      "url": "http://www.esap.edu.co/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Escuela Superior Politécnica del Litoral",
+      "url": "http://www.espol.edu.ec/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "ESEG - Escola Superior de Engenharia e Gestão",
+      "url": "https://www.eseg.edu.br/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Espam Formation University",
+      "url": "http://www.espamformationuc.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Estonian Academy of Arts",
+      "url": "http://www.artun.ee/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Estonian Academy of Music and Theatre",
+      "url": "http://www.ema.edu.ee/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Estonian Academy of Security Sciences",
+      "url": "http://www.sisekaitse.ee/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Estonian Business School",
+      "url": "http://www.ebs.ee/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Estonian University of Life Sciences",
+      "url": "http://www.emu.ee/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Esztergom Theological College",
+      "url": "http://www.ehf.hu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ethiopian Civil Service University",
+      "url": "http://www.ecsu.edu.et/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "EUCLID University",
+      "url": "http://www.euclid.int/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "EUFH - Hochschule für Gesundheit",
+      "url": "https://www.eufh.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eurasia International University",
+      "url": "http://www.eiu.am/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eurasian Institute of market",
+      "url": "http://www.eurazir.kz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "EURECOM, Graduate School In Communication Systems",
+      "url": "http://www.eurecom.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Euro-Balkan University",
+      "url": "https://euba.edu.mk"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Europa-Universität Viadrina Frankfurt (Oder)",
+      "url": "https://www.europa-uni.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European Academy of Arts in Warsaw",
+      "url": "http://www.eas.edu.pl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European Business School",
+      "url": "http://www.ebs-paris.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European Carolus Magnus University",
+      "url": "http://www.carolus-magnus-university.eu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European College Dukagjini",
+      "url": "http://dukagjinicollege.eu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European College of Kosovo",
+      "url": "http://eck-edu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European College of Liberal Arts",
+      "url": "http://www.ecla.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European Graduate School, Media & Communications",
+      "url": "http://www.egs.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European Humanities University",
+      "url": "http://www.data.minsk.by/ehu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European International University",
+      "url": "http://www.europeaniu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European Management Center Paris",
+      "url": "http://www.emc-campus.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European Open University",
+      "url": "http://www.europeanopenuniversity.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European Regional Educational Academy of Armenia",
+      "url": "http://www.eriicta.am/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European School of Economics",
+      "url": "http://www.eselondon.ac.uk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European School of Economics Italy",
+      "url": "http://www.uniese.it/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European School of Law and Governance",
+      "url": "http://www.eukos.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University",
+      "url": "http://www.eu.ac.rs/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University",
+      "url": "https://www.euruni.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University, Athens Campus",
+      "url": "http://www.euruni.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University at St.Petersburg",
+      "url": "http://www.eu.spb.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University College",
+      "url": "http://www.euc.ac.ae/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University Cyprus",
+      "url": "http://www.euc.ac.cy/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University Institute",
+      "url": "https://www.eui.eu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "European University of Lefke",
+      "url": "http://www.lefke.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Polytechnique Universitaire de Lille",
+      "url": "http://www.polytech-lille.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole pour les Etudes et la Recherche en Informatique et Electronique",
+      "url": "http://www.eerie.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Spéciale de Mécanique et d'Electricité",
+      "url": "http://www.esme.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Spéciale des Travaux Publics du Bâtiment et de l'Industrie",
+      "url": "http://www.estp.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Superieur d'Ingenieurs Leonard de Vinci",
+      "url": "http://www.devinci.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure Africaine des Tic ",
+      "url": "https://www.esatic.ci/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Agriculture d'Angers",
+      "url": "http://www.groupe-esa.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Agriculture de Purpan",
+      "url": "http://www.esa-purpan.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Chimie Organique et Minérale",
+      "url": "http://www.escom.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Chimie Physique Electronique de Lyon",
+      "url": "http://www.cpe.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Bordeaux",
+      "url": "http://www.esc-bordeaux.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Clermont-Ferrand",
+      "url": "http://www.esc-clermont.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Dijon",
+      "url": "http://www.escdijon.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Grenoble",
+      "url": "http://www.esc-grenoble.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Le Havre/Caen",
+      "url": "http://www.esc-normandie.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Lille",
+      "url": "http://www.esc-lille.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Lyon",
+      "url": "http://www.em-lyon.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Marseille-Provence",
+      "url": "http://www.esc-marseille.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Nantes-Atlantique",
+      "url": "http://www.escna.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Paris",
+      "url": "http://www.escp.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Pau",
+      "url": "http://www.esc-pau.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Reims",
+      "url": "http://www.esc-reims.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Sophia Antipolis",
+      "url": "http://www.ceram.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce de Toulouse",
+      "url": "http://www.esc-toulouse.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce et des Affaires",
+      "url": "http://www.esca.ac.ma/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Commerce et Management",
+      "url": "http://www.escem.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Electricité",
+      "url": "http://www.supelec.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Electronique de l'Ouest",
+      "url": "http://www.eseo.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure de Physique et de Chimie Industrielles",
+      "url": "http://www.espci.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure des Sciences Commerciales d'Angers",
+      "url": "http://www.essca.asso.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure des Sciences Economiques et Commerciales",
+      "url": "http://www.essec.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure des Sciences et Technologie de l'Ingénieur de Nancy",
+      "url": "http://www.esstin.u-nancy.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure des Techniques Industrielles et des Textiles",
+      "url": "http://www.fupl.asso.fr/estit/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Superieure des Télécommunications",
+      "url": "http://www.suptelecom.net.ma/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Informatique-Electronique-Automatique",
+      "url": "http://www.esiea.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Informatique et de Management",
+      "url": "http://www.hightech.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Ingénieurs de Marseille",
+      "url": "http://esim.imt-mrs.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique",
+      "url": "http://www.esiee.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Ingénieurs en Génie Electrique",
+      "url": "http://www.esigelec.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Ingénieurs et de Techniciens pour l'Agriculture",
+      "url": "http://www.esitpa.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure d'Optique",
+      "url": "http://www.iota.u-psud.fr/~ecole/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Supérieure Internationale d'Administration des Entreprises",
+      "url": "http://www.esiae.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Superieure Robert de Sorbon",
+      "url": "http://www.sorbon.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Universitaire d'Ingénieurs de Lille",
+      "url": "http://www.eudil.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Edith Cowan University",
+      "url": "http://www.ecu.edu.au/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Edogawa University",
+      "url": "http://www.edogawa-u.ac.jp/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Educação Presencial e a Distância - Unicesumar",
+      "url": "https://www.unicesumar.edu.br"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eelo University",
+      "url": "http://www.eelouniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Effat University",
+      "url": "https://www.effatuniversity.edu.sa"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Egas Moniz, Cooperativa de Ensino Superior",
+      "url": "http://www.egasmoniz.com.pt"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "École Nationale Supérieure de Biologie Appliquée à la Nutrition et à l'Alimentation",
+      "url": "http://www.agrosupdijon.fr/agrosup-dijon/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Chimie de Clermont-Ferrand",
+      "url": "http://ensccf.univ-bpclermont.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Chimie de Lille",
+      "url": "http://www.ensc-lille.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Chimie de Montpellier",
+      "url": "http://www.enscm.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Chimie de Mulhouse",
+      "url": "http://www.enscmu.univ-mulhouse.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Chimie de Paris",
+      "url": "http://www.enscp.jussieu.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Chimie de Rennes",
+      "url": "http://www.ensc-rennes.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Chimie de Toulouse",
+      "url": "http://www.univ-inpt.fr/~ensct/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Chimie et de Physique de Bordeaux",
+      "url": "http://www.enscpb.u-bordeaux.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de l'Aéronautique et de l'Espace",
+      "url": "http://www.supaero.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure d'Electrochimie et d'Electrométallurgie de Gernoble",
+      "url": "http://www.inpg.fr/INPG/fr_see.html"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure d'Electronique, d'Electrotechnique, d'Informatique et d'Hydraulique de Toulouse",
+      "url": "http://www.enseeiht.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure d'Electronique et de Radioelectricite de Bordeaux",
+      "url": "http://www.enserb.u-bordeaux.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure d'Electronique et de Radioelectricite de Grenoble",
+      "url": "http://www.enserg.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de l'Electronique et de ses Applications",
+      "url": "http://www.ensea.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Physique de Grenoble",
+      "url": "http://www-enspg.inpg.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Physique de Marseille",
+      "url": "http://www.enspm.u-3mrs.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Physique de Strasbourg",
+      "url": "http://www-ensps.u-strasbg.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Arts et Industries de Strasbourg",
+      "url": "http://www-ensais.u-strasbg.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Arts et Industries Textiles",
+      "url": "http://www.ensait.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Industries Chimiques de Nancy",
+      "url": "http://www.ensic.u-nancy.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Industries Textiles de Mulhouse",
+      "url": "http://www.ensitm.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Mines d'Alès",
+      "url": "http://www.ensm-ales.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Mines de Douai",
+      "url": "http://www.ensm-douai.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Mines de Nancy",
+      "url": "http://www.mines.u-nancy.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Mines de Paris",
+      "url": "http://www.ensmp.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Mines de St-Etienne",
+      "url": "http://www.emse.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Telecommunications de Bretagne",
+      "url": "http://www.enst-bretagne.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure des Telecommunications de Paris",
+      "url": "http://www.enst.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure de Techniques Avancées",
+      "url": "http://www.ensta.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure d'Hydraulique et de Mécanique de Grenoble",
+      "url": "http://www.hmg.inpg.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Superieure d'Informatique et de Mathematiques Appliquees de Grenoble",
+      "url": "http://www-ensimag.imag.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure d'Ingénieurs de Génie Chimique",
+      "url": "http://www.inp-fc.fr/~ensigc/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure d'Ingenieurs Electriciens de Grenoble",
+      "url": "http://www.ensieg.inpg.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure d'Ingénieurs en Mécanique et Energétique",
+      "url": "http://www.univ-valenciennes.fr/ensiame/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure du Pétrole et des Monteurs",
+      "url": "http://www.ifp.fr/EC/EC000GP1.html"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure Electricité et Mécanique",
+      "url": "http://www.ensem.u-nancy.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Supérieure en Electrotechnique, Electronique, Informatique et Hydraulique de Toulouse",
+      "url": "http://www.enseeiht.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Vétérinaire d'Alfort",
+      "url": "http://www.vet-alfort.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Vétérinaire de Lyon",
+      "url": "http://www.vet-lyon.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Vétérinaire de Nantes",
+      "url": "http://www.vet-nantes.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Nationale Vétérinaire de Toulouse",
+      "url": "http://www.envt.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "École Normale Supérieure Burundi",
+      "url": "https://ens.bi/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Normale Supérieure de Cachan",
+      "url": "http://www.ens-cachan.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Normale Supérieure de Fontenay-Saint Cloud",
+      "url": "http://www.ens-fcl.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Normale Supérieure de Lyon",
+      "url": "http://www.ens-lyon.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Normale Supérieure de Paris",
+      "url": "http://www.ens.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Polytechnique",
+      "url": "http://www.polytechnique.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "École Polytechnique de Montréal, Université de Montréal",
+      "url": "http://www.polymtl.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ecole Polytechnique Marseille",
+      "url": "http://www.polytech-marseille.fr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. B.R. Ambedkar School of Economics University ",
+      "url": "https://base.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. B.R. Ambedkar University, Srikakulam",
+      "url": "http://www.brau.edu.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. C.V. Raman University",
+      "url": "http://www.cvru.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. D.Y. Patil University",
+      "url": "http://www.dypatiluniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. Hari Singh Gour University, formerly University of Sagar",
+      "url": "http://www.dhsgsu.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. John Garang Memorial University of Science & Technology",
+      "url": "http://www.jgmust-edu.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr.NTR University of Health Sciences",
+      "url": "http://ntruhs.ap.nic.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. Panjabrao Deshmukh Krishi Vidyapeeth",
+      "url": "https://www.pdkv.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. Ram Manohar Lohia Avadh University",
+      "url": "http://www.rmlau.ac.in/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dr. YS Parmar University of Horticulture and Forestry",
+      "url": "http://www.ysparmaruniversity.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Drzavni Univerzitet u Novom Pazaru",
+      "url": "http://www.np.ac.rs/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Duale Hochschule Baden-Württemberg",
+      "url": "http://www.dhbw.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dubai Medical College for Girls",
+      "url": "http://www.dmcg.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dubai Pharmacy College",
+      "url": "http://www.dpc.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dublin City University",
+      "url": "http://www.dcu.ie/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dublin Institute for Advanced Studies",
+      "url": "http://www.dias.ie/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dublin Institute of Technology",
+      "url": "http://www.dit.ie/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dubna International University for Nature, Society and Man",
+      "url": "http://www.uni-dubna.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Duksung Women's University",
+      "url": "http://www.duksung.ac.kr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dumlupinar University",
+      "url": "http://www.dumlupinar.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dunya Institute of Higher Education",
+      "url": "http://www.dunya.edu.af/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Durban University of Technology",
+      "url": "http://www.dut.ac.za/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Durham College",
+      "url": "http://www.durhamc.on.ca/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Dutch Institute for Art History, Florence",
+      "url": "http://www.iuoart.org/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "E.A.P. Europäische Wirtschaftshochschule Berlin",
+      "url": "http://www.eap.net/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East Africa Star University, Rugombo, Cibitoke",
+      "url": "http://www.easu-burundi.com/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East Africa University Bosaso",
+      "url": "https://eau.edu.so"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East China Jiao Tong University",
+      "url": "http://www.ecjtu.jx.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East China Normal University",
+      "url": "http://www.ecnu.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East China University of Political Science And Law",
+      "url": "http://www.ecupl.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East China University of Science and Technology",
+      "url": "http://www.ecust.edu.cn/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East Delta University",
+      "url": "http://www.eastdelta.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eastern Asia University",
+      "url": "http://www.eau.ac.th/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eastern Mediterranean University",
+      "url": "http://www.emu.edu.tr/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eastern University",
+      "url": "http://www.easternuni.edu.bd/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eastern University of Sri Lanka",
+      "url": "http://www.esn.ac.lk/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eastern Visayas State University",
+      "url": "http://www.evsu.edu.ph/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East Kazakhstan State University",
+      "url": "http://www.vkgu.kz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East Kazakstan State Technical University",
+      "url": "http://www.ektu.kz/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East-Siberian State Institute of Culture",
+      "url": "http://www.vsgaki.burnet.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East-Siberian State University",
+      "url": "http://www.vsgtu.eastsib.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East-Siberian State University of Technology",
+      "url": "http://www.esstu.ru/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East Ukrainian Volodymyr Dahl National University",
+      "url": "http://snu.edu.ua/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East West University",
+      "url": "http://www.ewubd.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East-West University, Mohakhali",
+      "url": "http://www.ewubd.edu/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "East Yangon University",
+      "url": "http://www.eyu.edu.mm/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Eberhard-Karls-Universität Tübingen",
+      "url": "http://www.uni-tuebingen.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Ebonyi State University",
+      "url": "http://www.ebsu-edu.net/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "EBS Universität für Wirtschaft und Recht",
+      "url": "https://www.ebs.edu"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "ECAM - Institut Supérieur Industriel",
+      "url": "http://www.ecam.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+      "url": "https://www.htwk-leipzig.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Furtwangen",
+      "url": "https://www.hs-furtwangen.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+      "url": "https://www.hwg-lu.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule für Wirtschaft und Recht Berlin",
+      "url": "https://www.hwr-berlin.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule für Wirtschaft und Recht Berlin",
+      "url": "http://www.hwr-berlin.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen",
+      "url": "https://www.hfwu.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Hannover",
+      "url": "https://www.hs-hannover.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)",
+      "url": "https://www.hs-harz.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Heilbronn (HHN)",
+      "url": "https://www.hs-heilbronn.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Hof",
+      "url": "https://www.hof-university.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Kaiserslautern",
+      "url": "https://icms.hs-kl.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Kempten",
+      "url": "https://www.hs-kempten.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Koblenz",
+      "url": "https://www.hs-koblenz.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Konstanz, Technik, Wirtschaft und Gestaltung",
+      "url": "https://www.htwg-konstanz.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Landshut",
+      "url": "https://www.haw-landshut.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Magdeburg-Stendal",
+      "url": "https://www.h2.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Mainz",
+      "url": "https://www.hs-mainz.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Mannheim",
+      "url": "https://www.hs-mannheim.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Merseburg",
+      "url": "https://www.hs-merseburg.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Mittweida, University of Applied Sciences",
+      "url": "https://www.hs-mittweida.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule München",
+      "url": "https://www.hm.edu"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Neubrandenburg",
+      "url": "https://www.hs-nb.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Neu-Ulm",
+      "url": "https://www.hnu.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Niederrhein",
+      "url": "https://www.hs-niederrhein.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Nordhausen",
+      "url": "https://www.hs-nordhausen.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Offenburg",
+      "url": "https://www.hs-offenburg.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Osnabrück",
+      "url": "https://www.hs-osnabrueck.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Pforzheim",
+      "url": "https://www.hs-pforzheim.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Ravensburg-Weingarten",
+      "url": "https://www.rwu.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Reutlingen",
+      "url": "https://www.reutlingen-university.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule RheinMain",
+      "url": "http://www.hs-rm.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Rottenburg",
+      "url": "https://www.hs-rottenburg.net"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Schmalkalden",
+      "url": "https://www.hs-schmalkalden.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Stralsund",
+      "url": "https://www.hochschule-stralsund.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Trier",
+      "url": "https://www.hochschule-trier.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Vechta",
+      "url": "https://www.uni-vechta.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Weihenstephan",
+      "url": "https://www.hswt.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Wismar",
+      "url": "https://www.hs-wismar.de/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Worms",
+      "url": "https://www.hs-worms.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hochschule Zittau/Görlitz",
+      "url": "https://www.hszg.de"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogere Zeevaartschool - Maritime Academy",
+      "url": "http://www.hzs.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool Antwerpen",
+      "url": "http://www.ha.be/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool Inholland",
+      "url": "https://www.inholland.nl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool Leiden",
+      "url": "https://www.hsleiden.nl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool Rotterdam",
+      "url": "https://www.hogeschoolrotterdam.nl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool Utrecht",
+      "url": "https://www.hu.nl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool van Amsterdam",
+      "url": "http://www.hva.nl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool van Arnhem en Nijmegen",
+      "url": "https://www.han.nl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool voor de Kunsten Utrecht (HKU)",
+      "url": "http://www.hku.nl/"
+    },
+    {
+      "logo_url": "default_logo_url",
+      "name": "Hogeschool voor Wetenschap en Kunst (VLEKHO), Brussel",
+      "url": "http://www.vlekho.be/"
+    }
+  ]
+}

@@ -83,7 +83,7 @@ defmodule CollegeSpider.BasicSpider do
     json_items = Enum.map(items, &JsonTemplate.generate_college_json/1)
     JsonTemplate.append_college_data(json_items)
 
-    # NOTE - produces .js output
+    # NOTE - produces .json output
     %Crawly.ParsedItem {
       :items => [
         %{ universities: items, url: response.request_url },

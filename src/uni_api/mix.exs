@@ -25,7 +25,7 @@ defmodule UniApi.MixProject do
       {:plug_cowboy, "~> 2.6.1"},
       {:jason, "~> 1.4.1"},
       {:ecto_sql, "~> 3.0"},
-      {:postgrex, ">= 0.0.0"}
+      {:postgrex, "~> 0.17.3"}
     ]
   end
 end

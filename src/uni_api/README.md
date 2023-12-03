@@ -1,5 +1,7 @@
 # UniApi
 
+`source .env`
+
 **TODO: Add description**
 
 ## Installation

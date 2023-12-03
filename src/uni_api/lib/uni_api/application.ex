@@ -4,6 +4,7 @@ defmodule UniApi.Application do
   @moduledoc false
 
   use Application
+  require Logger
 
   @impl true
   def start(_type, _args) do
@@ -13,6 +14,7 @@ defmodule UniApi.Application do
     ]
 
     opts = [strategy: :one_for_one, name: UniApi.Supervisor]
+    Logger.info("Starting App...")
     Supervisor.start_link(children, opts)
   end
 end
