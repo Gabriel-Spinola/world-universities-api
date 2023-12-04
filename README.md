@@ -8,3 +8,4 @@
 - [ ] Better spiders implementation
 - [ ] Store colleges data into database
 - [ ] Deploy
+- [ ] Descripte process with poke-cli
