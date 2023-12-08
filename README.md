@@ -1,5 +1,8 @@
 # The Universities API (On development project)
-Welcome to the Universities API project! This API is designed to facilitate the retrieval and addition of university data through a web crawler and API integration. The project consists of two main parts: the Web Crawler and the API.
+This API is designed to facilitate the retrieval and addition of universities data through a web crawler and API integration. The project consists of two main parts: the Web Crawler and the API.
+
+## Motivation
+I created this API because I faced challenges finding free resources for gathering comprehensive data on multiple universities. The goal is to ease the process of building a catalog of universities for various purposes.
 
 ## Web Crawler
 The Web Crawler is responsible for searching and collecting data about universities from the web. It gathers information and metadata about universities, which is later used to populate the database through the API.
