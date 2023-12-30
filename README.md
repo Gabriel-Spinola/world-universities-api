@@ -28,7 +28,8 @@ The constructed request is sent to the Uni-API's POST endpoint, adding the unive
 - [X] Get colleges endpoint
 - [X] Basics search spiders
 - [X] Post endpoint
+- [X] Store colleges data into database
+- [X] Describe process with poke-cli
 - [ ] Better spiders implementation
-- [ ] Store colleges data into database
 - [ ] Deploy
-- [ ] Descripte process with poke-cli
+
